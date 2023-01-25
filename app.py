@@ -1,4 +1,3 @@
 class Car:
     pass
 
-print()
