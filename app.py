@@ -1,2 +1,4 @@
 class Car:
     pass
+
+print()
